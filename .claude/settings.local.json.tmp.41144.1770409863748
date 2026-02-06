@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.thingiverse.com)",
+      "WebFetch(domain:www.printables.com)",
+      "Bash(curl:*)"
+    ]
+  }
+}
