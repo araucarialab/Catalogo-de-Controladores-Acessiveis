@@ -1,6 +1,6 @@
 # 🎮 Catálogo de Controladores Acessíveis
 
-> Documentação completa de projetos open-source para acessibilidade em games
+> Compilação inicial de projetos open-source para acessibilidade em games
 
 <div align="center">
 
@@ -976,13 +976,40 @@ Teclado chord de 6 teclas para uso com uma mão, emulando teclado 101 teclas + m
 
 ---
 
-## 📝 Notas
+## 📝 Sobre Este Catálogo
 
-Este catálogo foi criado para documentar projetos open-source de controladores acessíveis. Todos os projetos listados são de código/design aberto e podem ser fabricados por qualquer pessoa com acesso a uma impressora 3D e componentes básicos.
+### Propósito
 
-**Metodologia:** Informações coletadas via web scraping automatizado e busca manual. Algumas informações podem estar incompletas ou desatualizadas.
+Este é um **catálogo inicial** de projetos open-source de controladores acessíveis para games. Todos os projetos listados são de código/design aberto e podem ser fabricados por qualquer pessoa com acesso a uma impressora 3D e componentes básicos.
 
-**Contribuições:** Se você conhece projetos não listados ou possui informações adicionais, contribua para ampliar este catálogo.
+Este é apenas o **começo** de um mapeamento muito maior. Existem centenas de outros projetos espalhados pela internet, e este catálogo representa uma pequena fração do que está disponível na comunidade maker.
+
+### 🤖 Metodologia & Transparência
+
+**Busca e Curadoria:** Todos os 39 projetos foram **identificados, selecionados e verificados manualmente** por humanos. A busca foi realizada em plataformas como Thingiverse, Printables e GitHub.
+
+**Geração do Conteúdo:** Apesar da busca manual, a **estruturação e formatação** deste documento foi assistida por inteligência artificial para agilizar o processo de catalogação e padronização das informações.
+
+**Limitações:** Algumas informações podem estar incompletas ou desatualizadas. Links podem ficar obsoletos e novos projetos surgem constantemente.
+
+### 🌱 Contribua & Expanda
+
+**Este documento foi criado em Markdown justamente para facilitar contribuições da comunidade!**
+
+Você pode ajudar a expandir este catálogo:
+- 📌 **Adicionando novos projetos** que você conhece ou criou
+- ✏️ **Corrigindo informações** desatualizadas ou incorretas
+- 🔗 **Atualizando links** que não funcionam mais
+- 📷 **Incluindo imagens** de projetos que não têm
+- 🌍 **Traduzindo** descrições ou informações técnicas
+- 💡 **Sugerindo melhorias** na estrutura do catálogo
+
+**Como contribuir:**
+1. Faça um fork deste repositório
+2. Adicione suas contribuições seguindo o formato existente
+3. Envie um pull request
+
+Quanto mais pessoas contribuírem, mais útil este recurso será para toda a comunidade de gaming acessível! 🎮♿✨
 
 **Última atualização:** 06/02/2026
 
