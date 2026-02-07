@@ -2,6 +2,16 @@
 
 > Documentação completa de projetos open-source para acessibilidade em games
 
+<div align="center">
+
+<img src="https://avatars.githubusercontent.com/u/61056111?v=4" width="80" alt="Araucária LAB">
+
+**Organizado por [Araucária LAB](https://araucarialab.com.br)**
+
+[🌐 araucarialab.com.br](https://araucarialab.com.br) | [📧 Contato](https://araucarialab.com.br/contato) | [💬 Instagram](https://instagram.com/araucarialab)
+
+</div>
+
 ---
 
 ## 📋 Índice
@@ -978,4 +988,18 @@ Este catálogo foi criado para documentar projetos open-source de controladores 
 
 ---
 
-*Compilado para tornar os games mais acessíveis para todos* 🎮♿✨
+## 🏛️ Sobre o Araucária LAB
+
+<div align="center">
+
+**[Araucária LAB](https://araucarialab.com.br)**
+
+🔗 [Site](https://araucarialab.com.br) | [Contato](https://araucarialab.com.br/contato) | [Instagram](https://instagram.com/araucarialab) | [YouTube](https://youtube.com/@araucarialab) | [LinkedIn](https://linkedin.com/company/araucarialab)
+
+**Projetos:** Tecnologia Assistiva • Fabricação Digital • Gaming Acessível
+
+</div>
+
+---
+
+*Compilado com ❤️ por [Araucária LAB](https://araucarialab.com.br) para tornar os games mais acessíveis para todos* 🎮♿✨
