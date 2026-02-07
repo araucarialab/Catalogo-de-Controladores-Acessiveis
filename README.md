@@ -3,13 +3,15 @@
 > Compilação inicial de projetos open-source para acessibilidade em games
 
 <div align="center">
-
+<p>
 <img src="https://avatars.githubusercontent.com/u/61056111?v=4" width="80" alt="Araucária LAB">
-
-**Organizado por [Araucária LAB](https://araucarialab.com.br)**
-
-[🌐 araucarialab.com.br](https://araucarialab.com.br) | [📧 Contato](mailto:contato@araucarialab.com.br) | [💬 Instagram](https://instagram.com/araucarialabctba)
-
+</p>
+<p><strong>Organizado por <a href="https://araucarialab.com.br">Araucária LAB</a></strong></p>
+<p>
+<a href="https://araucarialab.com.br">🌐 araucarialab.com.br</a> |
+<a href="mailto:contato@araucarialab.com.br">📧 Contato</a> |
+<a href="https://instagram.com/araucarialabctba">💬 Instagram</a>
+</p>
 </div>
 
 ---
@@ -244,31 +246,9 @@ Botões ajustáveis para gaming com foco em acessibilidade.
 
 ---
 
-### 11. Left-Handed Xbox Series X/S Controller
-
-**Autor:** rh3dstroke
-**Licença:** Informação não disponível
-**Link:** [Printables #204009](https://www.printables.com/model/204009-left-handed-xbox-series-x_s-controllerstl)
-
-**Descrição:**
-Adaptador para controle Xbox Series X/S configurado para uso canhoto.
-
-**Acessibilidade:**
-- 🦾 Jogadores canhotos
-- 🦾 Preferência/necessidade de controle invertido
-
-**Componentes Necessários:**
-- ✅ Peças impressas 3D
-
-**Projetos Relacionados:**
-- Modelo 156112: One-handed Xbox Series X|S (PLA, 0.2mm, sem suportes)
-- Modelo 320248: One-handed Xbox One controller (mesmas especificações)
-
----
-
 ## 🎮 PlayStation Controllers
 
-### 12. PS3 Controller Mount and Trigger Repositioning
+### 11. PS3 Controller Mount and Trigger Repositioning
 
 ![PS3 Controller Mount](https://cdn.thingiverse.com/renders/40/3b/92/3b/72/ps3_preview_featured.jpg)
 
@@ -290,7 +270,7 @@ Sistema de montagem não-destrutivo para DualShock 3 que reposiciona L1/L2 para 
 
 ---
 
-### 13. Trigger Mod for PlayStation 3
+### 12. Trigger Mod for PlayStation 3
 
 ![PS3 Trigger Mod](https://cdn.thingiverse.com/renders/45/16/60/b1/90/DSC00183_preview_featured.jpg)
 
@@ -310,7 +290,7 @@ Reposiciona gatilhos e shoulder buttons para o topo do controle PS3.
 
 ---
 
-### 14. PS4 Round Joystick Extender
+### 13. PS4 Round Joystick Extender
 
 ![PS4 Joystick Extender](https://cdn.thingiverse.com/renders/76/62/37/b6/d2/eeefcbf762e2e76ffd1de608394c9c80_preview_featured.jpg)
 
@@ -331,7 +311,7 @@ Extensão para analógico DualShock 4 que permite operação com ombro ou outras
 
 ---
 
-### 15. PS4 Controller Modification
+### 14. PS4 Controller Modification
 
 **Autor:** Makers Making Change
 **Licença:** Informação não disponível
@@ -350,7 +330,7 @@ Modificação original para gamer com destreza limitada na mão direita, permiti
 
 ---
 
-### 16. PS5 One-Handed Clip-On Adapter (Right-Handed)
+### 15. PS5 One-Handed Clip-On Adapter (Right-Handed)
 
 **Autor:** Akaki Kuumeri
 **Licença:** Informação não disponível
@@ -372,7 +352,7 @@ Adaptador snap-on para DualSense PS5 que permite jogo com uma mão. Encaixa no a
 
 ---
 
-### 17. PlayStation Adaptive Controller Toppers
+### 16. PlayStation Adaptive Controller Toppers
 
 **Autor:** AbleGamers Charity
 **Licença:** Informação não disponível
@@ -393,7 +373,7 @@ Toppers para PlayStation Access Controller, incluindo design "goalpost" ergonôm
 
 ---
 
-### 18. Joystick Game Controller / Joystick para Mandos
+### 17. Joystick Game Controller / Joystick para Mandos
 
 ![Joystick Universal](https://cdn.thingiverse.com/renders/82/b9/32/07/a1/e6cf1973b1f842fe3f03ce78d145e163_preview_featured.JPG)
 
@@ -415,7 +395,7 @@ Joystick adaptativo universal para PlayStation, Xbox e controles similares.
 
 ## 🕹️ Nintendo Switch
 
-### 19. Sheikah Slate Accessibility Adapter
+### 18. Sheikah Slate Accessibility Adapter
 
 **Autor:** Vexelius
 **Licença:** Informação não disponível
@@ -436,7 +416,7 @@ Adaptador customizado para jogar Zelda: Breath of the Wild usando apenas a mão 
 
 ---
 
-### 20. Single Hand Joy-Con Adapter (Left Hand)
+### 19. Single Hand Joy-Con Adapter (Left Hand)
 
 **Autor:** Vexelius
 **Licença:** Informação não disponível
@@ -459,7 +439,7 @@ Adaptador para segurar e operar ambos Joy-Cons com apenas a mão esquerda. Criad
 
 ## ♿ Xbox Adaptive Controller
 
-### 21. Foot Pedal (Xbox Adaptive Controller)
+### 20. Foot Pedal (Xbox Adaptive Controller)
 
 ![Foot Pedal](https://cdn.thingiverse.com/renders/50/7f/30/d6/6b/0692e8cee6c3cf5d39d3e09ec8cb8bb1_preview_featured.JPG)
 
@@ -484,7 +464,7 @@ Pedal de pé impresso 3D com switch mecânico para Xbox Adaptive Controller.
 
 ---
 
-### 22. XBox Adaptive Controller Low Cost/Force Buttons
+### 21. XBox Adaptive Controller Low Cost/Force Buttons
 
 ![Low Cost Buttons](https://cdn.thingiverse.com/renders/56/20/2d/6a/a0/866c94b20dd67aad5aff719fcc758414_preview_featured.jpg)
 
@@ -508,7 +488,7 @@ Botões DIY de baixo custo como alternativa econômica aos switches oficiais.
 
 ---
 
-### 23. Big Dpad (Xbox Adaptive Controller)
+### 22. Big Dpad (Xbox Adaptive Controller)
 
 ![Big Dpad](https://cdn.thingiverse.com/renders/27/06/48/3a/96/2487661ba170dee49b7b3a969df55238_preview_featured.JPG)
 
@@ -531,7 +511,7 @@ D-pad ampliado com melhor ergonomia e ativação facilitada.
 
 ---
 
-### 24. Big Button (Xbox Adaptive Controller)
+### 23. Big Button (Xbox Adaptive Controller)
 
 ![Big Button](https://cdn.thingiverse.com/renders/d3/30/51/ef/b8/8df88d53ffef509564bc6b7e23202e16_preview_featured.JPG)
 
@@ -556,7 +536,7 @@ Botão customizável de grande tamanho para interação facilitada.
 
 ---
 
-### 25. Dual Arcade Switch Housing
+### 24. Dual Arcade Switch Housing
 
 ![Dual Arcade Housing](https://cdn.thingiverse.com/assets/35/da/f4/ca/e4/featured_preview_f584fefc-5565-4c0a-9f4d-9290dea9a27a.JPG)
 
@@ -579,7 +559,7 @@ Caixa para dois switches estilo arcade compatível com Xbox Adaptive Controller.
 
 ---
 
-### 26. Arcade Switch Housing
+### 25. Arcade Switch Housing
 
 ![Arcade Housing](https://cdn.thingiverse.com/assets/76/03/3b/bf/50/featured_preview_f9c98246-2b5d-417d-8cf4-2e5e661ce437.JPG)
 
@@ -602,7 +582,7 @@ Caixa individual para botão arcade com sistema push/clip-in raso.
 
 ---
 
-### 27. XBOX Adaptive Controller to RC Adapter Case
+### 26. XBOX Adaptive Controller to RC Adapter Case
 
 ![RC Adapter](https://cdn.thingiverse.com/assets/9e/8f/5e/36/d3/featured_preview_Screenshot_2021-09-01_144658_Small.png)
 
@@ -625,7 +605,7 @@ Case para adaptador Arduino que permite operar veículos RC com Xbox Adaptive Co
 
 ---
 
-### 28. Xbox Adaptive Controller D-pad Replacement
+### 27. Xbox Adaptive Controller D-pad Replacement
 
 ![D-pad Replacement](https://cdn.thingiverse.com/renders/2e/b4/ca/e3/6e/a2c6f02c78feeea1ec7fbd3e16f2c502_preview_featured.jpeg)
 
@@ -647,7 +627,7 @@ D-pad substituto com pontas táteis para facilitar pressão com dedos ou palma.
 
 ---
 
-### 29. D-pad Joystick Clip for Xbox Adaptive Controller
+### 28. D-pad Joystick Clip for Xbox Adaptive Controller
 
 **Autor:** atom
 **Licença:** Informação não disponível
@@ -669,7 +649,7 @@ Clip totalmente impresso para joysticks modulares do XAC. Sem desmontagem necess
 
 ---
 
-### 30. Xbox Adaptive Controller Stick
+### 29. Xbox Adaptive Controller Stick
 
 **Autor:** spike886
 **Licença:** Informação não disponível
@@ -689,7 +669,7 @@ Joystick para Xbox Adaptive Controller.
 
 ---
 
-### 31. Xbox Adaptive Controller Directional Keypad
+### 30. Xbox Adaptive Controller Directional Keypad
 
 **Autor:** spike886
 **Licença:** Informação não disponível
@@ -709,7 +689,7 @@ D-pad direcional para Xbox Adaptive Controller.
 
 ---
 
-### 32. Easy to Assemble Adaptive Switch - Xbox Controller
+### 31. Easy to Assemble Adaptive Switch - Xbox Controller
 
 **Autor:** Barrett Shepherd
 **Licença:** Informação não disponível
@@ -731,7 +711,7 @@ Switch adaptativo de montagem fácil para Xbox Controller.
 
 ## 🔘 Switches & Botões Independentes
 
-### 33. Light Touch Assistive Switch
+### 32. Light Touch Assistive Switch
 
 ![Light Touch Switch](https://cdn.thingiverse.com/renders/80/bc/c2/64/a3/2ff1e31120bf104b576dca9a3ae7c3d2_preview_featured.jpg)
 
@@ -760,7 +740,7 @@ Switch assistivo DIY com força de ativação ultra-baixa (30-40g).
 
 ---
 
-### 34. MMC60 Switch
+### 33. MMC60 Switch
 
 **Autor:** Makers Making Change
 **Licença:** Informação não disponível
@@ -791,7 +771,7 @@ Switch de acessibilidade custo-efetivo para controlar eletrônicos (telefones, c
 
 ---
 
-### 35. 3D Printed Accessibility Button (Go Baby Go)
+### 34. 3D Printed Accessibility Button (Go Baby Go)
 
 **Autor:** Nate DiSalvo
 **Licença:** Informação não disponível
@@ -813,7 +793,7 @@ Botão de acessibilidade grande com case ao redor de microswitch pequeno de 2 fi
 
 ---
 
-### 36. Open Rocker Switch
+### 35. Open Rocker Switch
 
 **Autor:** Makers Making Change
 **Licença:** Open Source
@@ -841,7 +821,7 @@ Switch de gangorra acessível de código aberto. Dois botões separados ativados
 
 ---
 
-### 37. Accessibility Joysticks
+### 36. Accessibility Joysticks
 
 **Autor:** Bnackus
 **Licença:** Informação não disponível
@@ -860,7 +840,7 @@ Joysticks desenvolvidos especificamente para acessibilidade.
 
 ---
 
-### 38. ARC Accessibility Module - 100mm
+### 37. ARC Accessibility Module - 100mm
 
 **Autor:** TheTrain
 **Licença:** Informação não disponível
@@ -883,7 +863,7 @@ Módulo de acessibilidade ARC de 100mm.
 
 ## ⌨️ Teclados e Periféricos Acessíveis
 
-### 39. Quirkey V4 Accessibility Keyboard
+### 38. Quirkey V4 Accessibility Keyboard
 
 **Autor:** Vik
 **Licença:** Informação não disponível
@@ -921,12 +901,12 @@ Teclado chord de 6 teclas para uso com uma mão, emulando teclado 101 teclas + m
 ## 📊 Estatísticas
 
 ### Resumo Geral
-- **Total de Projetos Documentados:** 39/39 ✅
-- **Projetos Completos:** 39
+- **Total de Projetos Documentados:** 38/38 ✅
+- **Projetos Completos:** 38
 - **Projetos Não Localizados:** 0
 
 ### Por Plataforma
-- **Xbox Controllers:** 11 projetos
+- **Xbox Controllers:** 10 projetos
 - **PlayStation Controllers:** 7 projetos
 - **Nintendo Switch:** 2 projetos
 - **Xbox Adaptive Controller:** 12 projetos
@@ -1018,13 +998,15 @@ Quanto mais pessoas contribuírem, mais útil este recurso será para toda a com
 ## 🏛️ Sobre o Araucária LAB
 
 <div align="center">
-
-**[Araucária LAB](https://araucarialab.com.br)**
-
-🔗 [Site](https://araucarialab.com.br) | [Contato](mailto:contato@araucarialab.com.br) | [Instagram](https://instagram.com/araucarialabctba) | [YouTube](https://youtube.com/@araucarialab) | [LinkedIn](https://linkedin.com/company/araucarialab)
-
-**Projetos:** Tecnologia Assistiva • Fabricação Digital • Gaming Acessível
-
+<p><strong><a href="https://araucarialab.com.br">Araucária LAB</a></strong></p>
+<p>
+🔗 <a href="https://araucarialab.com.br">Site</a> |
+<a href="mailto:contato@araucarialab.com.br">Contato</a> |
+<a href="https://instagram.com/araucarialabctba">Instagram</a> |
+<a href="https://youtube.com/@araucarialab">YouTube</a> |
+<a href="https://linkedin.com/company/araucarialab">LinkedIn</a>
+</p>
+<p><strong>Projetos:</strong> Tecnologia Assistiva • Fabricação Digital • Gaming Acessível</p>
 </div>
 
 ---
