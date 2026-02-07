@@ -8,7 +8,7 @@
 
 **Organizado por [Araucária LAB](https://araucarialab.com.br)**
 
-[🌐 araucarialab.com.br](https://araucarialab.com.br) | [📧 Contato](https://araucarialab.com.br/contato) | [💬 Instagram](https://instagram.com/araucarialab)
+[🌐 araucarialab.com.br](https://araucarialab.com.br) | [📧 Contato](mailto:contato@araucarialab.com.br) | [💬 Instagram](https://instagram.com/araucarialabctba)
 
 </div>
 
@@ -994,7 +994,7 @@ Este catálogo foi criado para documentar projetos open-source de controladores 
 
 **[Araucária LAB](https://araucarialab.com.br)**
 
-🔗 [Site](https://araucarialab.com.br) | [Contato](https://araucarialab.com.br/contato) | [Instagram](https://instagram.com/araucarialab) | [YouTube](https://youtube.com/@araucarialab) | [LinkedIn](https://linkedin.com/company/araucarialab)
+🔗 [Site](https://araucarialab.com.br) | [Contato](mailto:contato@araucarialab.com.br) | [Instagram](https://instagram.com/araucarialabctba) | [YouTube](https://youtube.com/@araucarialab) | [LinkedIn](https://linkedin.com/company/araucarialab)
 
 **Projetos:** Tecnologia Assistiva • Fabricação Digital • Gaming Acessível
 
